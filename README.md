@@ -1,1 +1,1 @@
-# Responsive-navigation
+# Responsive navigation (HTML & CSS)
